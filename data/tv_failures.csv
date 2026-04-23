@@ -1,1 +1,16 @@
-
+symptom_1,symptom_2,symptom_3,diagnosis
+no_power,no_led,silent,power_supply
+blinking_led,no_image,sound_ok,mainboard
+no_image,backlight_off,sound_ok,led_strip
+shuts_down_randomly,slow_start,no_signal,power_supply
+has_sound,no_image,backlight_dim,led_strip
+restarts_loop,blinking_led,no_response,mainboard
+dead,no_led,no_sound,power_supply
+sound_ok,no_picture,flashlight_test_positive,led_strip
+intermittent_power,clicking_sound,no_start,power_supply
+stuck_logo,restarts_loop,no_menu,mainboard
+no_hdmi,no_signal,menu_ok,mainboard
+dark_screen,sound_ok,backlight_off,led_strip
+turns_on_then_off,blinking_led,silent,power_supply
+image_flicker,dim_screen,sound_ok,led_strip
+freezes,no_remote_response,restarts_loop,mainboard
